@@ -1,6 +1,6 @@
 # What is this Project
 
-This is an example of data-modeling in MongoDB created for an informational lecture on NoSQL 
+This is an example of data-modeling in MongoDB created for an informational lecture on NoSQL Databases
 
 The app is purposefully left unfinished. If you would like to use this for your own learning, please fork the repository and complete it.
 
@@ -53,7 +53,7 @@ The data is built on the NDSU chapter of the ACM. All preseeded data is example 
 - Arcade Scores
 - Weekly Minutes
 
-Note, As this is purposefully left unfinished, only the following objects are currently modeled:
+Note, as this is purposefully left unfinished, only the following objects are currently modeled:
 
 - Members
 - SIGs
