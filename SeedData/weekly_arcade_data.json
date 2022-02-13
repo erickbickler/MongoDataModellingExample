@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Astroids",
+        "week": 1,
+        "scores": [
+            {
+                "score": 10000,
+                "member": "Bob"
+            },
+            {
+                "score": 9000,
+                "member": "Joe"
+            },
+            {
+                "score": 6752,
+                "member": "Noelle"
+            }
+        ]
+    },
+    {
+        "name": "Frogger",
+        "week": 2,
+        "scores": [
+            {
+                "score": 5230,
+                "member": "Liela"
+            },
+            {
+                "score": 14000,
+                "member": "Zap Brannigan"
+            }
+        ]
+    }
+]

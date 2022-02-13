@@ -1,0 +1,24 @@
+[
+    {
+        "name": "SIG_GDev",
+        "members": [
+            {
+                "name": "Bob"
+            },
+            {
+                "name": "Barbara"
+            }
+        ]
+    },
+    {
+        "name": "SIG_Collab",
+        "members": [
+            {
+                "name": "Zap Branigan"
+            },
+            {
+                "name": "Joe"
+            }
+        ]
+    }
+]
