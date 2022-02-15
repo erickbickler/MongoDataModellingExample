@@ -25,6 +25,12 @@ Substitute your own connection information.
 
 # Running the app
 
+You need to install the python package requirements first
+
+``` python
+pip install -r requirements.txt
+```
+
 Once you have your MongoDB cluster initialized, you need to create the pre-seeded data.
 
 To do this, run:
